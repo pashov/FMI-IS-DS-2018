@@ -21,9 +21,13 @@
 #### **Задача 2** 
 Merge two sorted linked lists
 
+
 Ex.:
+
 The first linked list is: 1 -> 2 -> 3 -> NULL
+
 The second linked list is: 3 -> 4 -> NULL
+
 The merged linked list is: 1 -> 2 -> 3 -> 3 -> 4 -> NULL
 
 
@@ -31,5 +35,7 @@ The merged linked list is: 1 -> 2 -> 3 -> 3 -> 4 -> NULL
 Reverse a linked list
 
 Ex.:
+
 The initial linked list is: 1 -> 2 -> 3 -> 4 -> 5 -> NULL
+
 The reversed linked list is: 5 -> 4 -> 3 -> 2 -> 1 -> NULL
