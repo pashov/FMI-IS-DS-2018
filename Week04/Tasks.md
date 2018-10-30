@@ -34,3 +34,11 @@ Hn(x) = 2xHn−1(x) + 2(n − 1)Hn−2(x), n > 1,
 
 Да се реши задачата за [Ханойските кули](https://bg.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%BE%D0%B9%D1%81%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D0%B0) рекурсивно с най-малко ходове.
  
+ рекурсивно 
+
+#### **Задача 4**
+ 
+ Stack  Min: How would you design a stack which, in addition to push and pop, has a function min
+which returns the minimum element? Push, pop and min should all operate in 0(1) time.
+
+
