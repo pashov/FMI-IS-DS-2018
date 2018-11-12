@@ -22,3 +22,8 @@ Output: Modified Linked List = 12 -> 10 -> 5 -> 2
 Input: 25->15->6->48->12->5->16->14
 
 Output: Modified Linked List = 25 -> 15 -> 6 -> 5   
+
+
+#### Задача 2
+
+Cycle Detection in LinkedList
