@@ -8,13 +8,13 @@
 
 &nbsp; &nbsp; 1
     
-&nbsp; &nbsp;/&nbsp;\      -> ниво 1 => +
+&nbsp;&nbsp;&nbsp; / &nbsp; \      -> ниво 1 => +
    
-&nbsp; 5&nbsp; &nbsp;6
+&nbsp;&nbsp; 5 &nbsp;&nbsp;&nbsp; 6
   
-&nbsp;/&nbsp;\&nbsp; &nbsp;\    -> ниво 2 => *
+&nbsp; / &nbsp; \ &nbsp;&nbsp;&nbsp; \    -> ниво 2 => *
  
-8&nbsp; &nbsp;2&nbsp; &nbsp;3
+8&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp; 3
 
 Резултат: 8 * 2 * 5 + 1 + 6 * 3
 
