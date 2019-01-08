@@ -38,3 +38,6 @@ The string can be segmented as "i like".
 **Output** : Yes
 The string can be segmented as "i like samsung" or 
 "i like sam sung".
+
+
+[u o ᴉ ʇ n l o s](https://www.geeksforgeeks.org/word-break-problem-trie-solution/)
