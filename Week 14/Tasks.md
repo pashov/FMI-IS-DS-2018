@@ -6,9 +6,13 @@
 
 Пример:
     1
+    
    / \      -> ниво 1 => +
+   
   5   6
+  
  / \   \    -> ниво 2 => *
+ 
 8   2   3
 
 Резултат: 8 * 2 * 5 + 1 + 6 * 3
@@ -25,11 +29,11 @@ Consider the following dictionary
 { i, like, sam, sung, samsung, mobile, ice, 
   cream, icecream, man, go, mango}
 
-** Input ** :  ilike
-** Output ** : Yes 
+**Input** :  ilike
+**Output** : Yes 
 The string can be segmented as "i like".
 
-** Input ** :  ilikesamsung
-** Output ** : Yes
+**Input** :  ilikesamsung
+**Output** : Yes
 The string can be segmented as "i like samsung" or 
 "i like sam sung".
